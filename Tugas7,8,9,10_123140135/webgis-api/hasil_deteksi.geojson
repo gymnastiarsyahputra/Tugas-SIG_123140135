@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67643534772543,
+          -2.9465433524421965
+        ]
+      },
+      "properties": {
+        "class_id": 25,
+        "class_name": "object_25",
+        "confidence": 0.425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67656635064249,
+          -2.9465258288691523
+        ]
+      },
+      "properties": {
+        "class_id": 33,
+        "class_name": "object_33",
+        "confidence": 0.531
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67656634461817,
+          -2.946525840982595
+        ]
+      },
+      "properties": {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67730277155394,
+          -2.9465026517950546
+        ]
+      },
+      "properties": {
+        "class_id": 50,
+        "class_name": "object_50",
+        "confidence": 0.526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67737172701877,
+          -2.9465613696015254
+        ]
+      },
+      "properties": {
+        "class_id": 50,
+        "class_name": "object_50",
+        "confidence": 0.389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67644330346289,
+          -2.9467072178533185
+        ]
+      },
+      "properties": {
+        "class_id": 25,
+        "class_name": "object_25",
+        "confidence": 0.763
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67745039283837,
+          -2.9467814722448424
+        ]
+      },
+      "properties": {
+        "class_id": 21,
+        "class_name": "object_21",
+        "confidence": 0.439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67750115630899,
+          -2.9466987595550775
+        ]
+      },
+      "properties": {
+        "class_id": 50,
+        "class_name": "object_50",
+        "confidence": 0.378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67645404053906,
+          -2.9468235150022295
+        ]
+      },
+      "properties": {
+        "class_id": 14,
+        "class_name": "object_14",
+        "confidence": 0.318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6771423162625,
+          -2.946975832355218
+        ]
+      },
+      "properties": {
+        "class_id": 33,
+        "class_name": "object_33",
+        "confidence": 0.586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67728410102598,
+          -2.9469260677699936
+        ]
+      },
+      "properties": {
+        "class_id": 33,
+        "class_name": "object_33",
+        "confidence": 0.416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67699919204499,
+          -2.9470265122961794
+        ]
+      },
+      "properties": {
+        "class_id": 33,
+        "class_name": "object_33",
+        "confidence": 0.382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6770874329901,
+          -2.947127359391487
+        ]
+      },
+      "properties": {
+        "class_id": 28,
+        "class_name": "object_28",
+        "confidence": 0.328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67707472955973,
+          -2.9470877580066164
+        ]
+      },
+      "properties": {
+        "class_id": 28,
+        "class_name": "object_28",
+        "confidence": 0.279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6776564187282,
+          -2.9472371522199032
+        ]
+      },
+      "properties": {
+        "class_id": 33,
+        "class_name": "object_33",
+        "confidence": 0.397
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67715134085809,
+          -2.9474204022445014
+        ]
+      },
+      "properties": {
+        "class_id": 37,
+        "class_name": "object_37",
+        "confidence": 0.387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67715135567519,
+          -2.9474203774540344
+        ]
+      },
+      "properties": {
+        "class_id": 29,
+        "class_name": "object_29",
+        "confidence": 0.386
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67675656872942,
+          -2.947686102317107
+        ]
+      },
+      "properties": {
+        "class_id": 14,
+        "class_name": "object_14",
+        "confidence": 0.261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67715186428312,
+          -2.947624283018594
+        ]
+      },
+      "properties": {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67692770305392,
+          -2.947951075601612
+        ]
+      },
+      "properties": {
+        "class_id": 32,
+        "class_name": "object_32",
+        "confidence": 0.589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67680735368498,
+          -2.9482173266565646
+        ]
+      },
+      "properties": {
+        "class_id": 14,
+        "class_name": "object_14",
+        "confidence": 0.445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67678264678254,
+          -2.94827463153771
+        ]
+      },
+      "properties": {
+        "class_id": 14,
+        "class_name": "object_14",
+        "confidence": 0.619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67773428632042,
+          -2.9485613308539897
+        ]
+      },
+      "properties": {
+        "class_id": 21,
+        "class_name": "object_21",
+        "confidence": 0.331
+      }
+    }
+  ]
+}
